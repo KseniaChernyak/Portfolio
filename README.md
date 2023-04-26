@@ -9,3 +9,4 @@
 | 3.   | [Проект по сегментации отточных клиентов банка](https://github.com/KseniaChernyak/Portfolio/tree/main/Customer%20churn%20analysis) | Сегментация высокоотточных сегментов банка          | python, pandas, phik, scipy, numpy, sklearn, KMeans |
 | 4.   | [Дашборд](https://github.com/KseniaChernyak/Portfolio/tree/main/Dashboard) | Дашборд для Яндекс.Дзен на public.tableau.com          | tableau, презентации |
 | 5.   | [Рынок заведений общественного питания Москвы](https://github.com/KseniaChernyak/Portfolio/tree/main/Public%20catering) | Исследование рынка заведений общественного питания Москвы и поиск подходящего места для инвестиций          | python, pandas, seaborn, matplotlib, folium  |
+| 6.   | [Воронка продаж](https://github.com/KseniaChernyak/Portfolio/tree/main/Sales%20funnel) | Изучение воронки продаж. Исследование результатов A/A/B-эксперимента.        | python, pandas, scipy.stats, numpy, statsmodels, math, matplotlib  |
